@@ -12,7 +12,7 @@ git clone https://github.com/gperi/smart-walkers.git
 cd smart-walkers
 ```
 
-2. Create a virtual environment and activate it:
+2. Create a virtual environment and activate it (sure to work on `python 3.11.11`):
 
 ```bash
 python -m venv venv
